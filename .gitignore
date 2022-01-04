@@ -1,0 +1,13 @@
+# Yarn Intergrity file
+.yarn-intergrity
+
+# dotenc environment variables file
+.env
+dist
+/node_modules
+/dist
+
+# others
+package-lock.json
+yarn-error.log
+yarn.lock
